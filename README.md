@@ -22,7 +22,6 @@ Create `.env` file
 touch .env
 ```
 Inside `.env`, set these variables. For any APIs, see group Slack channel.
-```
 
 ### DB Setup
 ```
