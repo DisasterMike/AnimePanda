@@ -22,6 +22,8 @@ Create `.env` file
 touch .env
 ```
 Inside `.env`, set these variables. For any APIs, see group Slack channel.
+```
+Please add MAL API Key (MyAnimeList.net)
 
 ### DB Setup
 ```
@@ -42,9 +44,6 @@ rails s
 - [PostgreSQL](https://www.postgresql.org/) - Database
 - [Bootstrap](https://getbootstrap.com/) — Styling
 - [Figma](https://www.figma.com) — Prototyping
-
-## Acknowledgements
-Inspired by Jane Mount's [Bibliophile](https://www.amazon.com/Bibliophile-Illustrated-Miscellany-Jane-Mount/dp/1452167230) and a story my father once told me: "Why do we keep books? ... We keep books because they remind us of the new perspectives and lessons we learned".
 
 ## Team Members
 - [Michael Stump](https://www.linkedin.com/in/michael-stump-79695a324/)
