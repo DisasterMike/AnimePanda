@@ -23,7 +23,8 @@ touch .env
 ```
 Inside `.env`, set these variables. For any APIs, see group Slack channel.
 ```
-Please add MAL API Key (MyAnimeList.net)
+Please add MAL API Key (MyAnimeList.net).
+```
 
 ### DB Setup
 ```
